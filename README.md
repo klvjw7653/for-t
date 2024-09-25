@@ -1,7 +1,7 @@
 # for-t
-벤치마킹
-youssoful: 숲이라는 프랑스어로 자연 그대로의 향을 담아내기 위하여 노력한다라는 신조를 가지며 향을 제조할려 노력하고 있습니다.
+벤치마킹:
+youssoful
 
 
-프론트 : 
+프론트 : bootstrept5
 백엔드 : spring boot
